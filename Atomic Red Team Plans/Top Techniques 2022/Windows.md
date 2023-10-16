@@ -10,4 +10,4 @@
 ###### F18: The ingress tool transfer section of the report is very well detailed, with reccommended atomics to test. It is highly suggested that this section of the report gets anaylzed for detection tips and understanding this technique. [Ingress Tool Transfer](https://redcanary.com/threat-detection-report/techniques/ingress-tool-transfer/)
 ###### F20: This technique can get a bit complex. It is highly reccomened to run this on a lab environment firstRead through the author's intent and src materials. The threat report states that its mapping mainly to the parent technique, however, we added a sub test for simplicity. Process Injection view the subtechniques here: [ATT&CK Process Injection](https://attack.mitre.org/techniques/T1055/)
 
-###### (https://twitter.com/DLLpwns)
+######  [@DLLpwns] (https://twitter.com/DLLpwns)
